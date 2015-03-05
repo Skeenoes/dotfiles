@@ -21,7 +21,9 @@ If you don't get why then have a read of [some more thoroughly formed thinking][
 
 The install task will symlink the appropriate files in `.dotfiles` to your home directory. Everything is configured and tweaked within `~/.dotfiles`, though.
 
-## License
+Note: Run `./vundle-setup.sh` to install vundle used for vim.symlink
+
+#-setip License
 
 Released under the MIT License. Please see the accompanying [LICENSE](LICENSE) document for details.
 
